@@ -1,0 +1,11 @@
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.13.5
+✅ OS: Linux 6.12.10-76061203-generic
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (/home/onkhida/Documents/Ashesi/CS254/labs/Eta_Daniel_Lab0/.venv)
+==================================================
